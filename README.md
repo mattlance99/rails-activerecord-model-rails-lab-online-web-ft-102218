@@ -1,4 +1,4 @@
-# ActiveRecord Model Rails Lab
+bundle exec rspec# ActiveRecord Model Rails Lab
 
 ## Objectives
 
